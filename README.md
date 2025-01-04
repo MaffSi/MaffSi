@@ -1,4 +1,4 @@
-<img src="" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MaffSi/MaffSi/refs/heads/main/11260839.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá, eu sou o Mateus, sou estudante de Ciencias da Computação e um apaixonado por técnologia me considero um desenvolvedor <strong>backend</strong> mas me aventuro no front também.<br>
