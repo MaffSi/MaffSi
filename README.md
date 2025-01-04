@@ -7,7 +7,8 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> Python, TypeScript, React Native
+  🦄 <strong>Tecnologias:</strong><br> <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt='HTML5'/> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='CSS3'/> <img alt='Python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/> <img alt='React Native' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/> <img alt='Flask' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' /> <img alt='Git' src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white'/> <br>
+  <strong>Sistema Operacionais que domino:</strong><br> <img alt='Windows Server' src='https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white'/> <img alt='Kernel Linux' src='https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white'/>
 </p>
 
 <p align="left">
