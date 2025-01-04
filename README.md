@@ -3,7 +3,7 @@
 <p align="left">
   Olá, sou Mateus, estudante de <strong>Ciências da Computação</strong> e apaixonado por tecnologia. Meu foco principal é no desenvolvimento <strong>backend</strong>, mas também gosto de explorar o <strong>frontend</strong>. <br>
   Atualmente, trabalho com gestão de TI enquanto continuo minha graduação. As tecnologias que venho aprofundando são: <strong>Java</strong>, <strong>React Native (Expo)</strong> e <strong>JavaScript</strong>. <br>
-  Além disso, já tenho experiência sólida com <strong>HTML5</strong> e <strong>CSS3</strong>.
+  Além disso, já tenho experiência sólida com <strong>HTML5</strong> e <strong>CSS3</strong>, Python, PyQt e MSQL.
 </p>
 
 <p align="left">
